@@ -8,7 +8,7 @@ function App() {
 				<img src={logo} className="App-logo" alt="logo" />
 				<code>
 					Import GitHub Repo to Netlify, GitHub Commit == Netlify Deployment, Do
-					the same thing with Vercel
+					the same thing with Vercel 😊
 				</code>
 
 				<a
